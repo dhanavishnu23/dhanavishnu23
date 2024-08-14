@@ -1,0 +1,20 @@
+SPID,PROP_ID,PREFERENCE,PROPERTY_TYPE,CITY,TRANSACT_TYPE,OWNTYPE,BEDROOM_NUM,PRICE_PER_UNIT_AREA,FURNISH,FACING,AGE,TOTAL_FLOOR
+69306824,X69306824,S,Farm House,Mumbai Beyond Thane,1,1,3,477941,1,4,6,1
+70915032,R70915032,S,Residential Land,Navi Mumbai,1,1,,381,0,5,0,7
+70916930,G70916930,P,Residential Apartment,Thane,,0,1,51,1,3,3,7
+70484400,H70484400,P,Residential Apartment,Thane,,0,4,6,1,0,6,17
+70484128,A70484128,P,Residential Apartment,Thane,,0,4,6,1,0,6,30
+70484644,C70484644,P,Residential Apartment,Thane,,0,3,7,1,0,3,6
+70816344,D70816344,P,Residential Apartment,Navi Mumbai,,0,2,7,1,5,2,3
+70486606,R70486606,P,Independent House/Villa,Navi Mumbai,,0,4,2,1,5,1,3
+70485228,D70485228,P,Residential Apartment,Mumbai Beyond Thane,,0,3,3,1,0,1,22
+70629508,K70629508,P,Residential Apartment,Mumbai Harbour,,0,2,25,1,3,3,6
+70038378,I70038378,P,Residential Apartment,South Mumbai,,0,3,27,1,0,3,4
+69809784,E69809784,P,Residential Apartment,Central Mumbai suburbs,,0,2,23,1,4,3,22
+70699774,G70699774,P,Residential Apartment,Mumbai South West,,0,1,22,1,3,3,4
+70363976,C70363976,P,Studio Apartment,Mumbai South West,,0,1,49,1,2,3,5
+70806490,N70806490,P,Residential Apartment,Mumbai Andheri-Dahisar,,0,2,115,1,5,1,15
+70835204,L70835204,P,Independent House/Villa,Navi Mumbai,,0,4,4,1,3,3,2
+70247048,P70247048,P,Independent/Builder Floor,Mumbai Andheri-Dahisar,,0,5,8,1,5,3,4
+70699844,A70699844,S,Residential Apartment,Thane,1,1,2,22115,4,6,1,32
+68802070,H68802070,R,Residential Apartment,Mumbai Andheri-Dahisar,,0,2,68,4,1,6,15
